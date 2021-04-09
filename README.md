@@ -1,0 +1,17 @@
+# Project-2
+Assignment 2
+names = input("Name: ")
+countries = input("Country: ")
+profession = input("Profession: ")
+email = input("Email Address: ")
+phone = input("Phone No.: ")
+city = input("City: ")
+address = input("Address: ")
+print()
+print("Names: " + names)
+print("Country: " + countries)
+print("Proffessional: " + profession)
+print("Email: " + email)
+print("Phone No.: " + phone)
+print("City: " + city)
+print("Address: " + address)
